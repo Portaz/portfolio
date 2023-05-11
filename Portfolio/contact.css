@@ -31,6 +31,15 @@ a{
 
 }
 
+p{
+    color: black;
+}
+
+
+img{
+    align-items: center;
+}
+
 .interface{
     color: white;
 text-align: center;

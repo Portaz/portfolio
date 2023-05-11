@@ -31,6 +31,15 @@ a{
 
 }
 
+a:active{
+    text-decoration: underline;
+    background-color: orange;
+}
+a:hover {
+    text-decoration: underline;
+    
+}
+
 .interface{
     color: white;
 text-align: center;
@@ -40,6 +49,7 @@ text-align: center;
 img{
     height: 394px;
     width: 394px;
+    align-items: center;
 }
 
 footer{
