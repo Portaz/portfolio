@@ -1,0 +1,50 @@
+
+body{
+    margin: auto
+    
+}
+
+nav{
+    background-color: black;
+    height: 118px;
+
+}
+
+ul{
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+
+ color: black;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    color: white;
+    font-size: 45px;
+}
+  
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.interface{
+    color: white;
+text-align: center;
+
+}
+
+img{
+    height: 394px;
+    width: 394px;
+}
+
+footer{
+    background-color: black;
+    height: 70px;
+    color: white;
+    text-align: center;
+}
